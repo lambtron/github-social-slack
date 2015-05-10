@@ -1,0 +1,29 @@
+{
+  "name": "Github-Social-Feed",
+  "version": "0.0.1",
+  "description": "GitHub's social feed to POST request.",
+  "main": "lib/bot.js",
+  "scripts": {
+    "start": "make run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lambtron/github-social-feed"
+  },
+  "author": "Andy Jiang",
+  "bugs": {
+    "url": "https://github.com/segmentio/github-social-feed/issues"
+  },
+  "dependencies": {
+    "co": "^4.5.1",
+    "debug": "^2.1.3",
+    "lodash": "^3.8.0",
+    "moment": "^2.10.2",
+    "superagent": "^1.2.0",
+    "throng": "^1.0.0",
+    "thunkify-wrap": "^1.0.4"
+  },
+  "engines": {
+    "node": "^0.12.x"
+  }
+}
