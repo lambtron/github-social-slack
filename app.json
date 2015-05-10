@@ -1,0 +1,9 @@
+{
+  "name": "Github-Social-Slack",
+  "description": "GitHub's social feed to Slack channel.",
+  "repository": "https://github.com/lambtron/github-social-slack",
+  "website": "https://andyjiang.com",
+  "addons": ["scheduler:standard"],
+  "logo": "",
+  "keywords": ["github", "social", "newsfeed", "events", "notifications", "slack", "post"]
+}
